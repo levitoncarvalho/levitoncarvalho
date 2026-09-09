@@ -15,14 +15,14 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineering student** with a strong focus on **Data Science and Machine Learning**. I'm passionate about turning raw data into clear, actionable insights — from exploratory analysis and statistical testing to building predictive models and interactive dashboards.
+I'm a **Data Scientist** and a **Software Engineering student**. I'm passionate about turning raw data into clear, actionable insights. My work ranges from exploratory analysis and statistical testing to building predictive models and interactive dashboards.
 
-I combine a solid software development foundation with analytical skills, allowing me to work across the full pipeline: from data wrangling and modeling to deployment-ready applications.
+I combine practical analytical skills with a solid software development foundation, allowing me to work across the full pipeline: from data wrangling and modeling to deployment-ready applications.
 
-- 🎓 Currently studying Software Engineering
-- 📊 Specialising in Data Science & Machine Learning
-- 🌍 Based in Porto, Portugal
-- 🚀 Always learning, always building
+* 📊 Data Scientist
+* 🎓 Currently studying Software Engineering
+* 🌍 Based in Porto, Portugal
+* 🚀 Always learning, always building
 
 ---
 
